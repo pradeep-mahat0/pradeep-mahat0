@@ -50,51 +50,36 @@ I’m passionate about designing intelligent systems, exploring modern AI capabi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-mahat0\&show_icons=true\&theme=radical\&hide_border=true)
+<!-- These stats are stable & widely working -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-mahat0\&layout=compact\&theme=radical\&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-mahat0\&theme=radical\&hide_border=true)
-
-### 🏆 GitHub Profile Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pradeep-mahat0\&theme=radical\&no-frame=true\&row=1\&column=6)
-
-### 🧊 3D Contribution Graph
-
-![3D Graph](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/3d-contrib/3D-contribution-graph.svg)
-
-### 🐍 Contribution Snake Animation
-
-![Snake Animation](https://github.com/pradeep-mahat0/pradeep-mahat0/blob/output/github-contribution-grid-snake.svg)
-
-### 👀 Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=pradeep-mahat0\&style=flat-square\&color=blue)
+<img src="https://streak-stats.demolab.com?user=pradeep-mahat0&theme=radical" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📌 Pinned Projects (Showcase)
-
-> *These update dynamically based on your GitHub pins!*
+## 🏆 GitHub Trophies 
 
 <div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pradeep-mahat0\&repo=affective-chatroom\&theme=radical)]()
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pradeep-mahat0\&repo=ML-Projects\&theme=radical)]()
-
+<img src="https://github-profile-trophy.vercel.app/?username=pradeep-mahat0&theme=radical&no-frame=true" />
 </div>
 
 ---
 
-## 🎨 Custom Dark/Light Banner
+## 👀 Visitor Count
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pradeep-mahat0&style=flat-square&color=blue" />
+</div>
+
+---
+
+## 🎨 Custom Banner
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=50&color=gradient&fontColor=ffffff" />

@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=40C463&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Pradeep+Kumar+Mahato!+👋;AI+%2F+ML+Engineer+%7C+Generative+AI+%26+Agentic+Systems;Google+Cloud+Certified+Professional+Data+Engineer;Building+Multi-Agent+Workflows%2C+GraphRAG+%26+Cloud+Data+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=40C463&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Pradeep+Kumar+Mahato!+%F0%9F%91%8B;AI+%2F+ML+Engineer+%26+Generative+AI+Specialist;Google+Cloud+Certified+Professional+Data+Engineer;Building+Multi-Agent+AI%2C+GraphRAG+%26+Cloud+Systems)](https://git.io/typing-svg)
 
 </div>
 

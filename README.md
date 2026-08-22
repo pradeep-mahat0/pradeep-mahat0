@@ -9,10 +9,8 @@
 
 # 👋 Hi, I'm Pradeep Kumar Mahato
 
-🎓 **M.Sc. Computer Science** @ **NIT Trichy** *(CGPA: 9.02/10)*  
-💼 **Tech Trainee — AI/ML** @ **Sutherland Global Limited**  
-☁️ **Google Cloud Certified — Professional Data Engineer**  
-🏆 **GATE 2024 (Statistics): AIR 109 · IIT JAM 2024: AIR 203 · GATE 2026 (DA): AIR 1147**
+🎓 **M.Sc. Computer Science @ NIT Trichy** · ☁️ **Google Cloud Certified — Professional Data Engineer**  
+💼 **AI/ML & Generative AI Engineer**
 
 I build intelligent, production-ready AI systems combining **Generative AI, Multi-Agent Orchestration, Machine Learning, and Cloud Data Engineering**.
 
@@ -81,32 +79,17 @@ I build intelligent, production-ready AI systems combining **Generative AI, Mult
 
 ---
 
-## 📌 Featured Projects
-
-### 🥗 [AI Nutrition Coach — Multimodal Multi-Agent GenAI System](https://github.com/pradeep-mahat0)
-> *Tech: CrewAI, Gemini 2.5 Pro/Flash, FastAPI, Docker, Pydantic, Python*
-- Autonomous multimodal multi-agent system coordinating specialized agents for visual food inspection, nutritional breakdown, and customized dietary recommendations.
-- Tiered LLM routing between **Gemini 2.5 Pro** (vision reasoning) and **Gemini 2.5 Flash** (text inference), **reducing API inference costs by 40%** while preserving high analysis fidelity.
-- Deterministic schema validation via **Pydantic** achieving **99.4% structured output adherence** and containerized microservice deployment with **Docker**.
-
-### 🎓 [Personalized Course Recommendation Engine](https://github.com/pradeep-mahat0)
-> *Tech: Scikit-learn, PyTorch, Surprise, Pandas, NumPy, Streamlit*
-- Hybrid recommendation system combining **Collaborative Filtering (KNN)**, **Content-Based Filtering**, and **Neural Matrix Embeddings**.
-- Processed **100K+ user-course interactions**, tuning ML pipelines to achieve a **test RMSE of 0.82** and **88% top-10 recommendation precision**.
-- Interactive **Streamlit** dashboard enabling dynamic search, hyperparameter customization, and real-time recommendation filtering.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-mahat0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="Pradeep's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-mahat0&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeep-mahat0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="Pradeep's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeep-mahat0&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=pradeep-mahat0&theme=radical" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pradeep-mahat0&theme=radical" alt="GitHub Streak Stats" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-mahat0&theme=react-dark&custom_title=GitHub%20Contribution%20Activity" alt="Activity Graph" width="48%" />
 
 </div>
 

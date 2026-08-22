@@ -1,88 +1,99 @@
 <!-- Typing Animation Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=40C463&vCenter=true&width=800&lines=Hi+there%2C+I'm+Pradeep+Kumar+Mahato!;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;Building+RAG%2C+Agentic+AI+%26+Data+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=40C463&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Pradeep+Kumar+Mahato!+👋;AI+%2F+ML+Engineer+%7C+Generative+AI+%26+Agentic+Systems;Google+Cloud+Certified+Professional+Data+Engineer;Building+Multi-Agent+Workflows%2C+GraphRAG+%26+Cloud+Data+Systems)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
 # 👋 Hi, I'm Pradeep Kumar Mahato
 
-🎓 M.Sc. Computer Science @ NIT Trichy · ☁️ Google Cloud Certified — Professional Data Engineer
+🎓 **M.Sc. Computer Science** @ **NIT Trichy** *(CGPA: 9.02/10)*  
+💼 **Tech Trainee — AI/ML** @ **Sutherland Global Limited**  
+☁️ **Google Cloud Certified — Professional Data Engineer**  
+🏆 **GATE 2024 (Statistics): AIR 109 · IIT JAM 2024: AIR 203 · GATE 2026 (DA): AIR 1147**
 
-I build intelligent, data-driven systems that combine **Machine Learning, Generative AI, and Data Engineering** on the cloud — currently focused on **LLMs, RAG, and Agentic AI**.
+I build intelligent, production-ready AI systems combining **Generative AI, Multi-Agent Orchestration, Machine Learning, and Cloud Data Engineering**.
 
-- 🔭 Currently building **retrieval-augmented and agentic AI systems**
-- 🌱 Currently deepening my knowledge of **knowledge graphs and MLOps**
-- 💬 Ask me about **LLMs, data pipelines, or data engineering on GCP**
+- 🔭 Currently building **GraphRAG, Multi-Agent workflows, and secure enterprise RAG systems**
+- 🌱 Exploring **LLM observability (LangFuse/LangSmith), Knowledge Graphs (Neo4j), and high-throughput GCP data pipelines**
+- 💬 Ask me about **LLM Routing, Agentic Architectures, LangGraph, CrewAI, or BigQuery / Dataflow on GCP**
 - 📫 Reach me at **[pradeepmahato552003@gmail.com](mailto:pradeepmahato552003@gmail.com)**
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**Machine Learning & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?logo=lightgbm&logoColor=white)
+### 🤖 Generative AI & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0468FF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=datadog&logoColor=white)
 
-**Generative AI & LLMs**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0468FF?logo=meta&logoColor=white)
+### 🧠 Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Data Engineering & Databases**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white)
+### ☁️ Cloud & Data Engineering
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Cloud_Dataflow-4285F4?style=for-the-badge&logo=apache-beam&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Cloud_Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-**Development & MLOps**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+### 🛠️ MLOps, LLMOps & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=lighthouse&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & National Honors
 
-**Google Cloud Professional Data Engineer**
-Designing data processing systems, batch & streaming pipelines, BigQuery analytics, data security & governance, and ML solutions on Google Cloud.
+- ☁️ **[Google Cloud Certified Professional Data Engineer](https://www.credly.com/badges/d1462ce1-edfd-4826-9dd0-81d7727e9f5e)** — Google Cloud *(Aug 2026)*
+- 🌐 **[Neo4j Certified Professional](https://graphacademy.neo4j.com/c/1cf545ec-002d-4dce-9025-6e2299574601/)** — Neo4j GraphAcademy *(July 2026)*
+- 🤖 **[IBM Professional Certificate: RAG & Agentic AI](https://coursera.org/verify/professional-cert/68HTN1PMO5C4)** — 8-Course Specialization across LangGraph, CrewAI & AutoGen *(Oct 2025)*
+- 🎯 **GATE 2024 (Statistics — ST):** **All India Rank (AIR) 109**
+- 🎯 **IIT JAM 2024 (Mathematical Statistics — MS):** **All India Rank (AIR) 203**
+- 🎯 **GATE 2026 (Data Science & AI — DA):** **All India Rank (AIR) 1147**
 
 ---
 
 ## 📌 Featured Projects
 
-<!-- Replace these with 2-4 of your strongest repos — this is what recruiters look at first. -->
+### 🥗 [AI Nutrition Coach — Multimodal Multi-Agent GenAI System](https://github.com/pradeep-mahat0)
+> *Tech: CrewAI, Gemini 2.5 Pro/Flash, FastAPI, Docker, Pydantic, Python*
+- Autonomous multimodal multi-agent system coordinating specialized agents for visual food inspection, nutritional breakdown, and customized dietary recommendations.
+- Tiered LLM routing between **Gemini 2.5 Pro** (vision reasoning) and **Gemini 2.5 Flash** (text inference), **reducing API inference costs by 40%** while preserving high analysis fidelity.
+- Deterministic schema validation via **Pydantic** achieving **99.4% structured output adherence** and containerized microservice deployment with **Docker**.
 
-### 🔹 [Project 1 — replace with your repo name](https://github.com/pradeep-mahat0/repo-name)
-What it does, the problem it solves, and the key tools used.
-
-### 🔹 [Project 2 — replace with your repo name](https://github.com/pradeep-mahat0/repo-name)
-What it does, the problem it solves, and the key tools used.
-
-### 🔹 [Project 3 — replace with your repo name](https://github.com/pradeep-mahat0/repo-name)
-What it does, the problem it solves, and the key tools used.
+### 🎓 [Personalized Course Recommendation Engine](https://github.com/pradeep-mahat0)
+> *Tech: Scikit-learn, PyTorch, Surprise, Pandas, NumPy, Streamlit*
+- Hybrid recommendation system combining **Collaborative Filtering (KNN)**, **Content-Based Filtering**, and **Neural Matrix Embeddings**.
+- Processed **100K+ user-course interactions**, tuning ML pipelines to achieve a **test RMSE of 0.82** and **88% top-10 recommendation precision**.
+- Interactive **Streamlit** dashboard enabling dynamic search, hyperparameter customization, and real-time recommendation filtering.
 
 ---
 
@@ -90,11 +101,12 @@ What it does, the problem it solves, and the key tools used.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pradeep-mahat0&theme=radical" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-mahat0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="Pradeep's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-mahat0&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pradeep-mahat0&theme=radical&no-frame=true" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=pradeep-mahat0&theme=radical" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -104,10 +116,10 @@ What it does, the problem it solves, and the key tools used.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeepmahato552003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pradeep-mahat0)
-<!-- Once you have a LinkedIn URL, add:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepkrmahato/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradeep-mahat0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pradeepmahato552003/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepmahato552003@gmail.com)
 
 <br>
 
